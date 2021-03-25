@@ -25,10 +25,11 @@
 - Gitee仓库：https://gitee.com/scanflove_admin/ScanfloveLearningNotes
 - Github仓库：https://github.com/tiger7456/ScanfloveLearningNotes
 
-## Java
+## 算法
 
-- [Java环境搭建及入门](Java/Java基础语法/Java环境搭建及入门/README.md)
-- [运算符](Java/Java基础语法/运算符/README.md)
+- [十大经典排序算法动画与解析](https://mp.weixin.qq.com/s/vn3KiV-ez79FmbZ36SX9lg)
+
+  
 
 ## 赞赏
 
